@@ -2,4 +2,4 @@
 
 #MiniProyecto01
 
-Seleccionar un color dentro de un array y convertirlo en el background
+Acceder a las propiedades de un objeto dentro de un array
